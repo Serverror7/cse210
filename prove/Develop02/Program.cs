@@ -26,7 +26,26 @@ class Program
                     entry._date = dateText;
                     // get a random prompt
                     string prompt = promptgen.GetRandomPrompt();
-                    entry._prompt = prompt;
+                    bool prompting = true;
+                    // start prompting while loop
+                    while (prompting == true)
+                    {
+                        entry._prompt = prompt;
+                        // print the prompt
+                        Console.WriteLine(prompt);
+                        // ask if user wants change prompt
+                        Console.WriteLine("Would you like to change your prompt? (y/n)");
+                        // read user input
+                        prompt = promptgen.GetRandomPrompt();
+                        string changePrompt = Console.ReadLine();
+                        if (changePrompt == "n")
+                        {
+                            // break prompting while loop
+                            prompting = false;
+                            // prompt user to write response
+                            Console.writeLine("Please write your response below:\n");
+                        }   
+                    }
                     // get user input
                     entry._userInput = Console.ReadLine();
                     // add entry to journal
@@ -52,11 +71,10 @@ class Program
                     break;
                 default:
                     break;
-            } // I took this code from my previous class's assignment, and updated it for here.
-            Console.WriteLine("\nPress any key to close...");
-            Console.WriteLine("\nPress any key to continue...");
-            Console.ReadKey();
-        }
+            }
+        } // I took this code from my previous class's assignment, and updated it for here.
+        Console.WriteLine("\nPress any key to close...");
+        Console.ReadKey();
     }
 }
 
