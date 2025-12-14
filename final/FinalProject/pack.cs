@@ -4,7 +4,7 @@ public class Pack : Collection
 {
     public void Draft(Collection collection, Deck deck)
     {
-        if (collection.Count() < 5)
+        if (collection.Count() < 200)
         {
             Console.WriteLine("\n\nDon't forget to import cards! To draft realistically you will need roughly 360! \n Press enter to continue.");
             Console.ReadLine();
