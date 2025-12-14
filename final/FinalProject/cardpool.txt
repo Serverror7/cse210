@@ -1,0 +1,385 @@
+Creature|Aether-Tide Skimmer|3 {U} ||Drake|Flying. {2}{U}: Return Aether-Tide Skimmer to its owner's hand.|3|2
+Creature|Grave-Sower Witch|0 {B} ||Human Warlock|When Grave-Sower Witch enters the battlefield, mill three cards. If a creature card was milled this way, create a 2/2 black Zombie creature token.|2|2
+Creature|Iron-Oathed Paladin|0 {W} ||Human Knight|First strike. As long as it's your turn, Iron-Oathed Paladin has lifelink.|3|1
+Creature|Magma-Core Brute|0 {R} ||Elemental Giant|Trample. When Magma-Core Brute enters the battlefield, you may discard a card. If you do, draw a card.|5|4
+Creature|Root-Weave Druid|0 {G} ||Elf Druid|{T}: Add {G}. {3}{G}, {T}: Put a +1/+1 counter on target creature.|1|2
+Creature|Sky-Captain Aerin|0 {W} {U} |Legendary|Bird Soldier|Flying, Vigilance. Other creatures with flying you control get +1/+1.|2|2
+Creature|Rot-Hulk Abomination|0 {B} {G} ||Zombie Beast|Menace. Power and toughness are equal to the number of creature cards in your graveyard.|0|0
+Creature|Storm-Caller Adept|0 {U} {R} ||Goblin Wizard|Haste. Whenever you cast an instant or sorcery spell, Storm-Caller Adept gets +1/+0 until end of turn and can't be blocked this turn.|1|3
+Creature|Llanowar Elves|0 {G} ||Elf Druid|{T}: Add {G}.|1|1
+Creature|Young Pyromancer|1 {R} ||Human Shaman|Whenever you cast an instant or sorcery spell, create a 1/1 red Elemental creature token.|2|1
+Creature|Mulldrifter|4 {U} ||Elemental|Flying. When Mulldrifter enters the battlefield, draw two cards. Evoke {2} {U}.|2|2
+Creature|Gravedigger|3 {B} ||Zombie|When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.|2|2
+Creature|Serra Angel|3 {W} {W} ||Angel|Flying, vigilance|4|4
+Creature|Eternal Witness|1 {G} {G} ||Human Shaman|When Eternal Witness enters the battlefield, return target card from your graveyard to your hand.|2|1
+Creature|Man-o'-War|2 {U} ||Jellyfish|When Man-o'-War enters the battlefield, return target creature to its owner's hand.|2|2
+Creature|Vampire Nighthawk|1 {B} {B} ||Vampire Shaman|Flying, deathtouch, lifelink|2|3
+Creature|Thalia, Guardian of Thraben|1 {W} |Legendary|Human Soldier|First strike. Noncreature spells cost {1} more to cast.|2|1
+Creature|Goblin Guide|0 {R} ||Goblin Scout|Haste. Whenever Goblin Guide attacks, defending player reveals the top card of their library. If it's a land card, they put it into their hand.|2|2
+Creature|Colossal Dreadmaw|4 {G} {G} ||Dinosaur|Trample|6|6
+Creature|Flametongue Kavu|3 {R} ||Kavu|When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature.|4|2
+Creature|Phyrexian Rager|2 {B} ||Phyrexian Horror|When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.|2|2
+Creature|Mother of Runes|0 {W} ||Human Cleric|{T}: Target creature you control gains protection from the color of your choice until end of turn.|1|1
+Creature|Air Elemental|3 {U} {U} ||Elemental|Flying|4|4
+Creature|Reclamation Sage|2 {G} ||Elf Shaman|When Reclamation Sage enters the battlefield, you may destroy target artifact or enchantment.|2|1
+Creature|Gurmag Angler|6 {B} ||Zombie Fish|Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)|5|5
+Creature|Monastery Swiftspear|0 {R} ||Human Monk|Haste, Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)|1|2
+Creature|Cloudkin Seer|2 {U} ||Elemental Wizard|Flying. When Cloudkin Seer enters the battlefield, draw a card.|2|1
+Creature|Ravenous Chupacabra|2 {B} {B} ||Beast Horror|When Ravenous Chupacabra enters the battlefield, destroy target creature an opponent controls.|2|2
+Creature|Solemn Simulacrum|4 ||Artifact Golem|When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. When Solemn Simulacrum dies, you may draw a card.|2|2
+Creature|Restoration Angel|3 {W} ||Angel|Flash, Flying. When Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.|3|4
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Enchantment|Pacifism|1 {W} ||Aura|Enchant creature. Enchanted creature can't attack or block.
+Artifact|Mind Stone|2 |||{T}: Add {C}. {1}, {T}, Sacrifice Mind Stone: Draw a card.
+Enchantment|Rancor|0 {G} ||Aura|Enchant creature. Enchanted creature gets +2/+0 and has trample. When Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.
+Artifact|Icy Manipulator|4 |||{1}, {T}: Tap target artifact, creature, or land.
+Enchantment|Animate Dead|1 {B} ||Aura|Enchant creature card in a graveyard. When Animate Dead enters the battlefield, if it's on the battlefield, it loses "enchant creature card in a graveyard" and gains "enchant creature put onto the battlefield with Animate Dead." Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it. Enchanted creature gets -1/-0.
+Artifact|Lightning Greaves|2 ||Equipment|Equipped creature has haste and shroud. Equip {0}.
+Enchantment|Curiosity|0 {U} ||Aura|Enchant creature. Whenever enchanted creature deals damage to an opponent, you may draw a card.
+Artifact|Bonesplitter|1 ||Equipment|Equipped creature gets +2/+0. Equip {1}.
+Enchantment|Phyrexian Arena|1 {B} {B} |||At the beginning of your upkeep, you draw a card and you lose 1 life.
+Artifact|Sensei's Divining Top|1 |||{1}: Look at the top three cards of your library, then put them back in any order. {T}: Draw a card, then put Sensei's Divining Top on top of its owner's library.
+Creature|Aether-Tide Skimmer|3 {U} ||Drake|Flying. {2}{U}: Return Aether-Tide Skimmer to its owner's hand.|3|2
+Creature|Grave-Sower Witch|0 {B} ||Human Warlock|When Grave-Sower Witch enters the battlefield, mill three cards. If a creature card was milled this way, create a 2/2 black Zombie creature token.|2|2
+Creature|Iron-Oathed Paladin|0 {W} ||Human Knight|First strike. As long as it's your turn, Iron-Oathed Paladin has lifelink.|3|1
+Creature|Magma-Core Brute|0 {R} ||Elemental Giant|Trample. When Magma-Core Brute enters the battlefield, you may discard a card. If you do, draw a card.|5|4
+Creature|Root-Weave Druid|0 {G} ||Elf Druid|{T}: Add {G}. {3}{G}, {T}: Put a +1/+1 counter on target creature.|1|2
+Creature|Sky-Captain Aerin|0 {W} {U} |Legendary|Bird Soldier|Flying, Vigilance. Other creatures with flying you control get +1/+1.|2|2
+Creature|Rot-Hulk Abomination|0 {B} {G} ||Zombie Beast|Menace. Power and toughness are equal to the number of creature cards in your graveyard.|0|0
+Creature|Storm-Caller Adept|0 {U} {R} ||Goblin Wizard|Haste. Whenever you cast an instant or sorcery spell, Storm-Caller Adept gets +1/+0 until end of turn and can't be blocked this turn.|1|3
+Creature|Llanowar Elves|0 {G} ||Elf Druid|{T}: Add {G}.|1|1
+Creature|Young Pyromancer|1 {R} ||Human Shaman|Whenever you cast an instant or sorcery spell, create a 1/1 red Elemental creature token.|2|1
+Creature|Mulldrifter|4 {U} ||Elemental|Flying. When Mulldrifter enters the battlefield, draw two cards. Evoke {2} {U}.|2|2
+Creature|Gravedigger|3 {B} ||Zombie|When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.|2|2
+Creature|Serra Angel|3 {W} {W} ||Angel|Flying, vigilance|4|4
+Creature|Eternal Witness|1 {G} {G} ||Human Shaman|When Eternal Witness enters the battlefield, return target card from your graveyard to your hand.|2|1
+Creature|Man-o'-War|2 {U} ||Jellyfish|When Man-o'-War enters the battlefield, return target creature to its owner's hand.|2|2
+Creature|Vampire Nighthawk|1 {B} {B} ||Vampire Shaman|Flying, deathtouch, lifelink|2|3
+Creature|Thalia, Guardian of Thraben|1 {W} |Legendary|Human Soldier|First strike. Noncreature spells cost {1} more to cast.|2|1
+Creature|Goblin Guide|0 {R} ||Goblin Scout|Haste. Whenever Goblin Guide attacks, defending player reveals the top card of their library. If it's a land card, they put it into their hand.|2|2
+Creature|Colossal Dreadmaw|4 {G} {G} ||Dinosaur|Trample|6|6
+Creature|Flametongue Kavu|3 {R} ||Kavu|When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature.|4|2
+Creature|Phyrexian Rager|2 {B} ||Phyrexian Horror|When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.|2|2
+Creature|Mother of Runes|0 {W} ||Human Cleric|{T}: Target creature you control gains protection from the color of your choice until end of turn.|1|1
+Creature|Air Elemental|3 {U} {U} ||Elemental|Flying|4|4
+Creature|Reclamation Sage|2 {G} ||Elf Shaman|When Reclamation Sage enters the battlefield, you may destroy target artifact or enchantment.|2|1
+Creature|Gurmag Angler|6 {B} ||Zombie Fish|Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)|5|5
+Creature|Monastery Swiftspear|0 {R} ||Human Monk|Haste, Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)|1|2
+Creature|Cloudkin Seer|2 {U} ||Elemental Wizard|Flying. When Cloudkin Seer enters the battlefield, draw a card.|2|1
+Creature|Ravenous Chupacabra|2 {B} {B} ||Beast Horror|When Ravenous Chupacabra enters the battlefield, destroy target creature an opponent controls.|2|2
+Creature|Solemn Simulacrum|4 ||Artifact Golem|When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. When Solemn Simulacrum dies, you may draw a card.|2|2
+Creature|Restoration Angel|3 {W} ||Angel|Flash, Flying. When Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.|3|4
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Enchantment|Pacifism|1 {W} ||Aura|Enchant creature. Enchanted creature can't attack or block.
+Artifact|Mind Stone|2 |||{T}: Add {C}. {1}, {T}, Sacrifice Mind Stone: Draw a card.
+Enchantment|Rancor|0 {G} ||Aura|Enchant creature. Enchanted creature gets +2/+0 and has trample. When Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.
+Artifact|Icy Manipulator|4 |||{1}, {T}: Tap target artifact, creature, or land.
+Enchantment|Animate Dead|1 {B} ||Aura|Enchant creature card in a graveyard. When Animate Dead enters the battlefield, if it's on the battlefield, it loses "enchant creature card in a graveyard" and gains "enchant creature put onto the battlefield with Animate Dead." Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it. Enchanted creature gets -1/-0.
+Artifact|Lightning Greaves|2 ||Equipment|Equipped creature has haste and shroud. Equip {0}.
+Enchantment|Curiosity|0 {U} ||Aura|Enchant creature. Whenever enchanted creature deals damage to an opponent, you may draw a card.
+Artifact|Bonesplitter|1 ||Equipment|Equipped creature gets +2/+0. Equip {1}.
+Enchantment|Phyrexian Arena|1 {B} {B} |||At the beginning of your upkeep, you draw a card and you lose 1 life.
+Artifact|Sensei's Divining Top|1 |||{1}: Look at the top three cards of your library, then put them back in any order. {T}: Draw a card, then put Sensei's Divining Top on top of its owner's library.
+Creature|Aether-Tide Skimmer|3 {U} ||Drake|Flying. {2}{U}: Return Aether-Tide Skimmer to its owner's hand.|3|2
+Creature|Grave-Sower Witch|0 {B} ||Human Warlock|When Grave-Sower Witch enters the battlefield, mill three cards. If a creature card was milled this way, create a 2/2 black Zombie creature token.|2|2
+Creature|Iron-Oathed Paladin|0 {W} ||Human Knight|First strike. As long as it's your turn, Iron-Oathed Paladin has lifelink.|3|1
+Creature|Magma-Core Brute|0 {R} ||Elemental Giant|Trample. When Magma-Core Brute enters the battlefield, you may discard a card. If you do, draw a card.|5|4
+Creature|Root-Weave Druid|0 {G} ||Elf Druid|{T}: Add {G}. {3}{G}, {T}: Put a +1/+1 counter on target creature.|1|2
+Creature|Sky-Captain Aerin|0 {W} {U} |Legendary|Bird Soldier|Flying, Vigilance. Other creatures with flying you control get +1/+1.|2|2
+Creature|Rot-Hulk Abomination|0 {B} {G} ||Zombie Beast|Menace. Power and toughness are equal to the number of creature cards in your graveyard.|0|0
+Creature|Storm-Caller Adept|0 {U} {R} ||Goblin Wizard|Haste. Whenever you cast an instant or sorcery spell, Storm-Caller Adept gets +1/+0 until end of turn and can't be blocked this turn.|1|3
+Creature|Llanowar Elves|0 {G} ||Elf Druid|{T}: Add {G}.|1|1
+Creature|Young Pyromancer|1 {R} ||Human Shaman|Whenever you cast an instant or sorcery spell, create a 1/1 red Elemental creature token.|2|1
+Creature|Mulldrifter|4 {U} ||Elemental|Flying. When Mulldrifter enters the battlefield, draw two cards. Evoke {2} {U}.|2|2
+Creature|Gravedigger|3 {B} ||Zombie|When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.|2|2
+Creature|Serra Angel|3 {W} {W} ||Angel|Flying, vigilance|4|4
+Creature|Eternal Witness|1 {G} {G} ||Human Shaman|When Eternal Witness enters the battlefield, return target card from your graveyard to your hand.|2|1
+Creature|Man-o'-War|2 {U} ||Jellyfish|When Man-o'-War enters the battlefield, return target creature to its owner's hand.|2|2
+Creature|Vampire Nighthawk|1 {B} {B} ||Vampire Shaman|Flying, deathtouch, lifelink|2|3
+Creature|Thalia, Guardian of Thraben|1 {W} |Legendary|Human Soldier|First strike. Noncreature spells cost {1} more to cast.|2|1
+Creature|Goblin Guide|0 {R} ||Goblin Scout|Haste. Whenever Goblin Guide attacks, defending player reveals the top card of their library. If it's a land card, they put it into their hand.|2|2
+Creature|Colossal Dreadmaw|4 {G} {G} ||Dinosaur|Trample|6|6
+Creature|Flametongue Kavu|3 {R} ||Kavu|When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature.|4|2
+Creature|Phyrexian Rager|2 {B} ||Phyrexian Horror|When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.|2|2
+Creature|Mother of Runes|0 {W} ||Human Cleric|{T}: Target creature you control gains protection from the color of your choice until end of turn.|1|1
+Creature|Air Elemental|3 {U} {U} ||Elemental|Flying|4|4
+Creature|Reclamation Sage|2 {G} ||Elf Shaman|When Reclamation Sage enters the battlefield, you may destroy target artifact or enchantment.|2|1
+Creature|Gurmag Angler|6 {B} ||Zombie Fish|Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)|5|5
+Creature|Monastery Swiftspear|0 {R} ||Human Monk|Haste, Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)|1|2
+Creature|Cloudkin Seer|2 {U} ||Elemental Wizard|Flying. When Cloudkin Seer enters the battlefield, draw a card.|2|1
+Creature|Ravenous Chupacabra|2 {B} {B} ||Beast Horror|When Ravenous Chupacabra enters the battlefield, destroy target creature an opponent controls.|2|2
+Creature|Solemn Simulacrum|4 ||Artifact Golem|When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. When Solemn Simulacrum dies, you may draw a card.|2|2
+Creature|Restoration Angel|3 {W} ||Angel|Flash, Flying. When Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.|3|4
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Enchantment|Pacifism|1 {W} ||Aura|Enchant creature. Enchanted creature can't attack or block.
+Artifact|Mind Stone|2 |||{T}: Add {C}. {1}, {T}, Sacrifice Mind Stone: Draw a card.
+Enchantment|Rancor|0 {G} ||Aura|Enchant creature. Enchanted creature gets +2/+0 and has trample. When Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.
+Artifact|Icy Manipulator|4 |||{1}, {T}: Tap target artifact, creature, or land.
+Enchantment|Animate Dead|1 {B} ||Aura|Enchant creature card in a graveyard. When Animate Dead enters the battlefield, if it's on the battlefield, it loses "enchant creature card in a graveyard" and gains "enchant creature put onto the battlefield with Animate Dead." Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it. Enchanted creature gets -1/-0.
+Artifact|Lightning Greaves|2 ||Equipment|Equipped creature has haste and shroud. Equip {0}.
+Enchantment|Curiosity|0 {U} ||Aura|Enchant creature. Whenever enchanted creature deals damage to an opponent, you may draw a card.
+Artifact|Bonesplitter|1 ||Equipment|Equipped creature gets +2/+0. Equip {1}.
+Enchantment|Phyrexian Arena|1 {B} {B} |||At the beginning of your upkeep, you draw a card and you lose 1 life.
+Artifact|Sensei's Divining Top|1 |||{1}: Look at the top three cards of your library, then put them back in any order. {T}: Draw a card, then put Sensei's Divining Top on top of its owner's library.
+Creature|Aether-Tide Skimmer|3 {U} ||Drake|Flying. {2}{U}: Return Aether-Tide Skimmer to its owner's hand.|3|2
+Creature|Grave-Sower Witch|0 {B} ||Human Warlock|When Grave-Sower Witch enters the battlefield, mill three cards. If a creature card was milled this way, create a 2/2 black Zombie creature token.|2|2
+Creature|Iron-Oathed Paladin|0 {W} ||Human Knight|First strike. As long as it's your turn, Iron-Oathed Paladin has lifelink.|3|1
+Creature|Magma-Core Brute|0 {R} ||Elemental Giant|Trample. When Magma-Core Brute enters the battlefield, you may discard a card. If you do, draw a card.|5|4
+Creature|Root-Weave Druid|0 {G} ||Elf Druid|{T}: Add {G}. {3}{G}, {T}: Put a +1/+1 counter on target creature.|1|2
+Creature|Sky-Captain Aerin|0 {W} {U} |Legendary|Bird Soldier|Flying, Vigilance. Other creatures with flying you control get +1/+1.|2|2
+Creature|Rot-Hulk Abomination|0 {B} {G} ||Zombie Beast|Menace. Power and toughness are equal to the number of creature cards in your graveyard.|0|0
+Creature|Storm-Caller Adept|0 {U} {R} ||Goblin Wizard|Haste. Whenever you cast an instant or sorcery spell, Storm-Caller Adept gets +1/+0 until end of turn and can't be blocked this turn.|1|3
+Creature|Llanowar Elves|0 {G} ||Elf Druid|{T}: Add {G}.|1|1
+Creature|Young Pyromancer|1 {R} ||Human Shaman|Whenever you cast an instant or sorcery spell, create a 1/1 red Elemental creature token.|2|1
+Creature|Mulldrifter|4 {U} ||Elemental|Flying. When Mulldrifter enters the battlefield, draw two cards. Evoke {2} {U}.|2|2
+Creature|Gravedigger|3 {B} ||Zombie|When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.|2|2
+Creature|Serra Angel|3 {W} {W} ||Angel|Flying, vigilance|4|4
+Creature|Eternal Witness|1 {G} {G} ||Human Shaman|When Eternal Witness enters the battlefield, return target card from your graveyard to your hand.|2|1
+Creature|Man-o'-War|2 {U} ||Jellyfish|When Man-o'-War enters the battlefield, return target creature to its owner's hand.|2|2
+Creature|Vampire Nighthawk|1 {B} {B} ||Vampire Shaman|Flying, deathtouch, lifelink|2|3
+Creature|Thalia, Guardian of Thraben|1 {W} |Legendary|Human Soldier|First strike. Noncreature spells cost {1} more to cast.|2|1
+Creature|Goblin Guide|0 {R} ||Goblin Scout|Haste. Whenever Goblin Guide attacks, defending player reveals the top card of their library. If it's a land card, they put it into their hand.|2|2
+Creature|Colossal Dreadmaw|4 {G} {G} ||Dinosaur|Trample|6|6
+Creature|Flametongue Kavu|3 {R} ||Kavu|When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature.|4|2
+Creature|Phyrexian Rager|2 {B} ||Phyrexian Horror|When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.|2|2
+Creature|Mother of Runes|0 {W} ||Human Cleric|{T}: Target creature you control gains protection from the color of your choice until end of turn.|1|1
+Creature|Air Elemental|3 {U} {U} ||Elemental|Flying|4|4
+Creature|Reclamation Sage|2 {G} ||Elf Shaman|When Reclamation Sage enters the battlefield, you may destroy target artifact or enchantment.|2|1
+Creature|Gurmag Angler|6 {B} ||Zombie Fish|Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)|5|5
+Creature|Monastery Swiftspear|0 {R} ||Human Monk|Haste, Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)|1|2
+Creature|Cloudkin Seer|2 {U} ||Elemental Wizard|Flying. When Cloudkin Seer enters the battlefield, draw a card.|2|1
+Creature|Ravenous Chupacabra|2 {B} {B} ||Beast Horror|When Ravenous Chupacabra enters the battlefield, destroy target creature an opponent controls.|2|2
+Creature|Solemn Simulacrum|4 ||Artifact Golem|When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. When Solemn Simulacrum dies, you may draw a card.|2|2
+Creature|Restoration Angel|3 {W} ||Angel|Flash, Flying. When Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.|3|4
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Enchantment|Pacifism|1 {W} ||Aura|Enchant creature. Enchanted creature can't attack or block.
+Artifact|Mind Stone|2 |||{T}: Add {C}. {1}, {T}, Sacrifice Mind Stone: Draw a card.
+Enchantment|Rancor|0 {G} ||Aura|Enchant creature. Enchanted creature gets +2/+0 and has trample. When Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.
+Artifact|Icy Manipulator|4 |||{1}, {T}: Tap target artifact, creature, or land.
+Enchantment|Animate Dead|1 {B} ||Aura|Enchant creature card in a graveyard. When Animate Dead enters the battlefield, if it's on the battlefield, it loses "enchant creature card in a graveyard" and gains "enchant creature put onto the battlefield with Animate Dead." Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it. Enchanted creature gets -1/-0.
+Artifact|Lightning Greaves|2 ||Equipment|Equipped creature has haste and shroud. Equip {0}.
+Enchantment|Curiosity|0 {U} ||Aura|Enchant creature. Whenever enchanted creature deals damage to an opponent, you may draw a card.
+Artifact|Bonesplitter|1 ||Equipment|Equipped creature gets +2/+0. Equip {1}.
+Enchantment|Phyrexian Arena|1 {B} {B} |||At the beginning of your upkeep, you draw a card and you lose 1 life.
+Artifact|Sensei's Divining Top|1 |||{1}: Look at the top three cards of your library, then put them back in any order. {T}: Draw a card, then put Sensei's Divining Top on top of its owner's library.
+Creature|Snapcaster Mage|1 {U}||Human Wizard|Flash. When Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.|2|1
+Creature|Tireless Tracker|2 {G}||Human Scout|Whenever a land enters the battlefield under your control, investigate. (Create a colorless Clue artifact token with "{2}, Sacrifice this artifact: Draw a card.") Whenever you sacrifice a Clue, put a +1/+1 counter on Tireless Tracker.|3|2
+Creature|Thragtusk|4 {G}||Beast|When Thragtusk enters the battlefield, you gain 5 life. When Thragtusk leaves the battlefield, create a 3/3 green Beast creature token.|5|3
+Creature|Siege Rhino|1 {W} {B} {G}||Rhino|Trample. When Siege Rhino enters the battlefield, each opponent loses 3 life and you gain 3 life.|4|5
+Creature|Inferno Titan|4 {R} {R}||Giant|{R}: Inferno Titan gets +1/+0 until end of turn. Whenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divided as you choose among one, two, or three targets.|6|6
+Creature|Grave Titan|4 {B} {B}||Giant|Deathtouch. Whenever Grave Titan enters the battlefield or attacks, create two 2/2 black Zombie creature tokens.|6|6
+Creature|Sheoldred, the Apocalypse|2 {B} {B}|Legendary|Phyrexian Praetor|Deathtouch. Whenever you draw a card, you gain 2 life. Whenever an opponent draws a card, they lose 2 life.|4|5
+Creature|Goldspan Dragon|3 {R} {R}||Dragon|Flying, haste. Whenever Goldspan Dragon attacks or becomes the target of a spell, create a Treasure token. Treasures you control have "{T}, Sacrifice this artifact: Add two mana of any one color."|4|4
+Creature|Elesh Norn, Grand Cenobite|5 {W} {W}|Legendary|Phyrexian Praetor|Vigilance. Other creatures you control get +2/+2. Creatures your opponents control get -2/-2.|4|7
+Creature|The Scarab God|3 {U} {B}|Legendary|God|At the beginning of your upkeep, each opponent loses X life and you scry X, where X is the number of Zombies you control. {2} {U} {B}: Exile target creature card from a graveyard. Create a token that's a copy of it, except it's a 4/4 black Zombie.|5|5
+Creature|Vorinclex, Monstrous Raider|4 {G} {G}|Legendary|Phyrexian Praetor|Trample, haste. If you would put one or more counters on a permanent or player, put twice that many of each of those kinds of counters on that permanent or player instead. If an opponent would put one or more counters on a permanent or player, they put half that many of each of those kinds of counters on that permanent or player instead, rounded down.|6|6
+Creature|Archangel of Thune|3 {W} {W}||Angel|Flying, lifelink. Whenever you gain life, put a +1/+1 counter on each creature you control.|3|4
+Creature|Skyclave Apparition|1 {W} {W}||Kor Spirit|When Skyclave Apparition enters the battlefield, exile up to one target nonland, nontoken permanent you don't control with mana value 4 or less. When Skyclave Apparition leaves the battlefield, the exiled card's owner creates an X/X blue Illusion creature token, where X is the exiled card's mana value.|2/2
+Creature|Luminarch Aspirant|1 {W}||Human Cleric|At the beginning of combat on your turn, put a +1/+1 counter on target creature you control.|1/1
+Creature|Baral, Chief of Compliance|1 {U}|Legendary|Human Wizard|Instant and sorcery spells you cast cost {1} less to cast. Whenever a spell or ability you control counters a spell, you may draw a card. If you do, discard a card.|1/3
+Creature|Ledger Shredder|1 {U}||Bird Advisor|Flying. Whenever a player casts their second spell each turn, Ledger Shredder connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)|1/3
+Creature|Gonti, Lord of Luxury|2 {B} {B}|Legendary|Aetherborn Rogue|Deathtouch. When Gonti, Lord of Luxury enters the battlefield, look at the top four cards of target opponent's library, exile one of them face down, then put the rest on the bottom of that library in a random order. You may look at and cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.|2/3
+Creature|Bloodghast|{B} {B}||Vampire Spirit|Bloodghast can't block. Bloodghast has haste as long as an opponent has 10 or less life. Landfall — Whenever a land enters the battlefield under your control, you may return Bloodghast from your graveyard to the battlefield.|2/1
+Creature|Legion Warboss|2 {R}||Goblin Soldier|Mentor. At the beginning of combat on your turn, create a 1/1 red Goblin creature token. That token gains haste and attacks this combat if able.|2/2
+Creature|Eidolon of the Great Revel|{R} {R}||Enchantment Spirit|Whenever a player casts a spell with mana value 3 or less, Eidolon of the Great Revel deals 2 damage to that player.|2/2
+Creature|Ramunap Excavator|2 {G}||Naga Cleric|You may play lands from your graveyard.|2/3
+Creature|Scavenging Ooze|1 {G}||Ooze|{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on Scavenging Ooze and you gain 1 life.|2/2
+Creature|Noble Hierarch|{G}||Human Druid|Exalted. {T}: Add {G}, {W}, or {U}.|0/1
+Creature|Spell Queller|1 {W} {U}||Spirit|Flash, Flying. When Spell Queller enters the battlefield, exile target spell with mana value 4 or less. When Spell Queller leaves the battlefield, the exiled card's owner may cast that card without paying its mana cost.|2/3
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Creature|Flickerwisp|1 {W} {W}||Elemental|Flying. When Flickerwisp enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.|3|1
+Creature|Blood Artist|1 {B}||Vampire|Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life.|0|1
+Creature|Guttersnipe|2 {R}||Goblin Shaman|Whenever you cast an instant or sorcery spell, Guttersnipe deals 2 damage to each opponent.|2|2
+Creature|Acidic Slime|3 {G} {G}||Ooze|Deathtouch. When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.|2/2
+Creature|Reflector Mage|1 {W} {U}||Human Wizard|When Reflector Mage enters the battlefield, return target creature an opponent controls to its owner's hand. That creature's owner can't cast spells with the same name as that creature until your next turn.|2/3
+Creature|Baleful Strix|{U} {B}||Artifact Bird|Flying, deathtouch. When Baleful Strix enters the battlefield, draw a card.|1|1
+Creature|Gatekeeper of Malakir|{B} {B}||Vampire Warrior|Kicker {B}. When Gatekeeper of Malakir enters the battlefield, if it was kicked, target player sacrifices a creature.|2/2
+Creature|Strangleroot Geist|{G} {G}||Spirit|Haste, undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)|2/1
+Creature|Mayhem Devil|1 {B} {R}||Devil|Whenever a player sacrifices a permanent, Mayhem Devil deals 1 damage to any target.|3/3
+Creature|Wall of Omens|1 {W}||Wall|Defender. When Wall of Omens enters the battlefield, draw a card.|0/4
+Creature|Shriekmaw|4 {B}||Elemental|Fear. When Shriekmaw enters the battlefield, destroy target non-artifact, non-black creature. Evoke {1} {B}.|3/2
+Creature|Imperious Perfect|2 {G}||Elf Warrior|Other Elf creatures you control get +1/+1. {G}, {T}: Create a 1/1 green Elf Warrior creature token.|2/2
+Creature|Lingering Souls|2 {W}||Sorcery|Create two 1/1 white Spirit creature tokens with flying. Flashback {1} {B}.| |
+Creature|Flickerwisp|1 {W} {W}||Elemental|Flying. When Flickerwisp enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.|3|1
+Creature|Blood Artist|1 {B}||Vampire|Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life.|0|1
+Creature|Guttersnipe|2 {R}||Goblin Shaman|Whenever you cast an instant or sorcery spell, Guttersnipe deals 2 damage to each opponent.|2|2
+Creature|Acidic Slime|3 {G} {G}||Ooze|Deathtouch. When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.|2/2
+Creature|Reflector Mage|1 {W} {U}||Human Wizard|When Reflector Mage enters the battlefield, return target creature an opponent controls to its owner's hand. That creature's owner can't cast spells with the same name as that creature until your next turn.|2/3
+Creature|Baleful Strix|{U} {B}||Artifact Bird|Flying, deathtouch. When Baleful Strix enters the battlefield, draw a card.|1|1
+Creature|Gatekeeper of Malakir|{B} {B}||Vampire Warrior|Kicker {B}. When Gatekeeper of Malakir enters the battlefield, if it was kicked, target player sacrifices a creature.|2/2
+Creature|Strangleroot Geist|{G} {G}||Spirit|Haste, undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)|2/1
+Creature|Mayhem Devil|1 {B} {R}||Devil|Whenever a player sacrifices a permanent, Mayhem Devil deals 1 damage to any target.|3/3
+Creature|Wall of Omens|1 {W}||Wall|Defender. When Wall of Omens enters the battlefield, draw a card.|0/4
+Creature|Shriekmaw|4 {B}||Elemental|Fear. When Shriekmaw enters the battlefield, destroy target non-artifact, non-black creature. Evoke {1} {B}.|3/2
+Creature|Imperious Perfect|2 {G}||Elf Warrior|Other Elf creatures you control get +1/+1. {G}, {T}: Create a 1/1 green Elf Warrior creature token.|2/2
+Creature|Lingering Souls|2 {W}||Sorcery|Create two 1/1 white Spirit creature tokens with flying. Flashback {1} {B}.| |
+Creature|Fiend Hunter|1 {W} {W}||Human Cleric|When Fiend Hunter enters the battlefield, exile target creature other than Fiend Hunter. When Fiend Hunter leaves the battlefield, return the exiled card to the battlefield under its owner's control.|1|3
+Creature|Pteramander|{U}||Salamander Drake|Flying. {7} {U}: Adapt 4. This ability costs {1} less to cast for each instant and sorcery card in your graveyard.|1|1
+Creature|Gifted Aetherborn|{B} {B}||Aetherborn Vampire|Deathtouch, lifelink|2|3
+Creature|Kiln Fiend|1 {R}||Elemental Beast|Whenever you cast an instant or sorcery spell, Kiln Fiend gets +3/+0 until end of turn.|1|2
+Creature|Pelt Collector|{G}||Elf Warrior|Whenever another creature you control enters the battlefield or dies, if that creature's power is greater than Pelt Collector's, put a +1/+1 counter on Pelt Collector.|1|1
+Creature|Bloodbraid Elf|2 {R} {G}||Elf Berserker|Haste. Cascade. (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)|3|2
+Creature|Trygon Predator|1 {G} {U}||Beast|Flying. Whenever Trygon Predator deals combat damage to a player, you may destroy target artifact or enchantment that player controls.|2/3
+Creature|Vampire Hexmage|{B} {B}||Vampire Shaman|First strike. Sacrifice Vampire Hexmage: Remove all counters from target permanent.|2|1
+Creature|Burning-Tree Emissary|{R/G} {R/G}||Human Shaman|When Burning-Tree Emissary enters the battlefield, add {R} {G}.|2|2
+Creature|Stitcher's Supplier|{B}||Zombie|When Stitcher's Supplier enters the battlefield or dies, mill three cards.|1|1
+Creature|Militia Bugler|2 {W}||Human Soldier|Vigilance. When Militia Bugler enters the battlefield, look at the top four cards of your library. You may reveal a creature card with power 2 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order.|2/3
+Creature|Pitiless Plunderer|3 {B}||Human Pirate|Whenever another creature you control dies, create a colorless Treasure artifact token.|1|4
+Creature|Crackling Drake|{U} {U} {R} {R}||Drake|Flying. Crackling Drake's power is equal to the total number of instant and sorcery cards in your graveyard and in exile. When Crackling Drake enters the battlefield, draw a card.|*|4
+Creature|Sakura-Tribe Elder|1 {G}||Snake Shaman|Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.|1|1
+Creature|Gray Merchant of Asphodel|3 {B} {B}||Zombie|When Gray Merchant of Asphodel enters the battlefield, each opponent loses X life, where X is your devotion to black. You gain life equal to the life lost this way.|2|4
+Creature|Thraben Inspector|{W}||Human Soldier|When Thraben Inspector enters the battlefield, investigate. (Create a colorless Clue artifact token with "{2}, Sacrifice this artifact: Draw a card.")|1|2
+Creature|Delver of Secrets|{U}||Human Wizard|At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If an instant or sorcery card is revealed this way, transform Delver of Secrets. (It becomes a 3/2 Human Insect with flying.)|1|1
+Creature|Wurmcoil Engine|6||Artifact Wurm|Deathtouch, lifelink. When Wurmcoil Engine dies, create a 3/3 colorless Wurm artifact creature token with deathtouch and a 3/3 colorless Wurm artifact creature token with lifelink.|6|6
+Creature|Dark Confidant|1 {B}||Human Wizard|At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.|2|1
+Creature|Murderous Redcap|2 {B/R} {B/R}||Goblin Assassin|When Murderous Redcap enters the battlefield, it deals damage equal to its power to any target. Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)|2|2
+Creature|Sun Titan|4 {W} {W}||Giant|Vigilance. Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield.|6|6
+Creature|Birds of Paradise|{G}||Bird|Flying. {T}: Add one mana of any color.|0|1
+Creature|Coiling Oracle|{G} {U}||Snake Elf Druid|When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand.|1|1
+Creature|Goblin Rabblemaster|2 {R}||Goblin Warrior|Whenever Goblin Rabblemaster attacks, it gets +X/+0 until end of turn, where X is the number of other attacking Goblins. At the beginning of combat on your turn, create a 1/1 red Goblin creature token with haste. It attacks this combat if able.|2|2
+Creature|Selfless Spirit|1 {W}||Spirit Cleric|Flying. Sacrifice Selfless Spirit: Creatures you control gain indestructible until end of turn.|2|1
+Creature|Deep Forest Hermit|3 {G} {G}||Elf Druid|Vanishing 3. When Deep Forest Hermit enters the battlefield, create four 1/1 green Squirrel creature tokens. Squirrels you control get +1/+1.|1/1
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Creature|Giver of Runes|{W}||Kor Cleric|{T}: Another target creature you control gains protection from colorless or from the color of your choice until end of turn.|1|2
+Creature|Hedron Crab|{U}||Crab|Landfall — Whenever a land enters the battlefield under your control, target player mills three cards.|0|2
+Creature|Carrion Feeder|{B}||Zombie|Carrion Feeder can't block. Sacrifice a creature: Put a +1/+1 counter on Carrion Feeder.|1|1
+Creature|Dragon's Rage Channeler|{R}||Human Shaman|Whenever you cast a noncreature spell, surveil 1. Delirium — As long as there are four or more card types among cards in your graveyard, Dragon's Rage Channeler gets +2/+2, has flying, and attacks each combat if able.|1|1
+Creature|Wild Nacatl|{G}||Cat Warrior|Wild Nacatl gets +1/+1 as long as you control a Mountain. Wild Nacatl gets +1/+1 as long as you control a Plains.|1|1

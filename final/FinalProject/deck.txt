@@ -1,0 +1,45 @@
+Creature|Wurmcoil Engine|6 ||Artifact Wurm|Deathtouch, lifelink. When Wurmcoil Engine dies, create a 3/3 colorless Wurm artifact creature token with deathtouch and a 3/3 colorless Wurm artifact creature token with lifelink.|6|6
+Creature|Reclamation Sage|2 {G} ||Elf Shaman|When Reclamation Sage enters the battlefield, you may destroy target artifact or enchantment.|2|1
+Creature|Restoration Angel|3 {W} ||Angel|Flash, Flying. When Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.|3|4
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Creature|Snapcaster Mage|1 {U} ||Human Wizard|Flash. When Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.|2|1
+Creature|Colossal Dreadmaw|4 {G} {G} ||Dinosaur|Trample|6|6
+Creature|Ledger Shredder|1 {U} ||Bird Advisor|Flying. Whenever a player casts their second spell each turn, Ledger Shredder connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)|0|4
+Creature|Bloodbraid Elf|2 {R} {G} ||Elf Berserker|Haste. Cascade. (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)|3|2
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Artifact|Sensei's Divining Top|1 |||{1}: Look at the top three cards of your library, then put them back in any order. {T}: Draw a card, then put Sensei's Divining Top on top of its owner's library.
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Creature|Magma-Core Brute|0 {R} ||Elemental Giant|Trample. When Magma-Core Brute enters the battlefield, you may discard a card. If you do, draw a card.|5|4
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Land|Plains|0|Basic|Plains|{T}: Add one {W}.
+Creature|Lingering Souls|2 {W} ||Sorcery|Create two 1/1 white Spirit creature tokens with flying. Flashback {1} {B}.|0|4
+Creature|Reclamation Sage|2 {G} ||Elf Shaman|When Reclamation Sage enters the battlefield, you may destroy target artifact or enchantment.|2|1
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Creature|Phyrexian Rager|2 {B} ||Phyrexian Horror|When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.|2|2
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Creature|Rot-Hulk Abomination|0 {B} {G} ||Zombie Beast|Menace. Power and toughness are equal to the number of creature cards in your graveyard.|0|0
+Enchantment|Pacifism|1 {W} ||Aura|Enchant creature. Enchanted creature can't attack or block.
+Creature|Acidic Slime|3 {G} {G} ||Ooze|Deathtouch. When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.|0|4
+Creature|Storm-Caller Adept|0 {U} {R} ||Goblin Wizard|Haste. Whenever you cast an instant or sorcery spell, Storm-Caller Adept gets +1/+0 until end of turn and can't be blocked this turn.|1|3
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Land|Swamp|0|Basic|Swamp|{T}: Add one {B}.
+Enchantment|Rancor|0 {G} ||Aura|Enchant creature. Enchanted creature gets +2/+0 and has trample. When Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Enchantment|Curiosity|0 {U} ||Aura|Enchant creature. Whenever enchanted creature deals damage to an opponent, you may draw a card.
+Creature|Air Elemental|3 {U} {U} ||Elemental|Flying|4|4
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Creature|Thalia, Guardian of Thraben|1 {W} |Legendary|Human Soldier|First strike. Noncreature spells cost {1} more to cast.|2|1
+Land|Mountain|0|Basic|Mountain|{T}: Add one {R}.
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Creature|Flickerwisp|1 {W} {W} ||Elemental|Flying. When Flickerwisp enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.|3|1
+Creature|Gravedigger|3 {B} ||Zombie|When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.|2|2
+Creature|Mulldrifter|4 {U} ||Elemental|Flying. When Mulldrifter enters the battlefield, draw two cards. Evoke {2} {U}.|2|2
+Land|Forest|0|Basic|Forest|{T}: Add one {G}.
+Land|Island|0|Basic|Island|{T}: Add one {U}.
+Creature|Gifted Aetherborn|0 {B} {B} ||Aetherborn Vampire|Deathtouch, lifelink|2|3
+Land|Wastes|0|Basic||{T}: Add one {C}.
+Enchantment|Phyrexian Arena|1 {B} {B} |||At the beginning of your upkeep, you draw a card and you lose 1 life.
+Enchantment|Pacifism|1 {W} ||Aura|Enchant creature. Enchanted creature can't attack or block.
+Creature|Monastery Swiftspear|0 {R} ||Human Monk|Haste, Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)|1|2
